@@ -1,5 +1,7 @@
-h1 {font-family: Impact;}
+h1 {font-family: Impact; }
 h2 {font-size: 48px}
 .header {font-size: 20px}
-#choice {font-size: 24px; color:purple; text-underline-position: below}
-p {font-size: 24px}
+#choice {font-size: 24px; color:blue;background-color: lightgrey; text-underline-position: below}
+p {font-size: 24px; background-color: lightgrey}
+body {background-image: url(./images/Adventurer_Manager_Background_The_Ice_Cave.png)}
+#home {background-size: 100%; background-image: url(./images/dirt_farm.png.jpg)}
